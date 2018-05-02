@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.card .card-header{
+    position: relative;
+}
+
+.card .card-header .close{
+    position: absolute;
+    right: 20px;
+}
+.dropdown-item:hover{
+    cursor: pointer;
+    background: blue !important;
+    color:  #fff !important;
+}
+.active-sort{
+    background: blue !important;
+    color:  #fff !important;
+}
